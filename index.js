@@ -8,6 +8,7 @@ const MAILGUN_USER = "api";
 
 module.exports.register = function*(plugin){
   plugin.expose("type", "mail");
+  plugin.expose("description",  require("./package.json").description);
   plugin.expose("parameters",{
     credentials: [
       { name : "apiKey", required : true }
