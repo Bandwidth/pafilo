@@ -1,6 +1,6 @@
 {
   "name": "pafilo",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "MailGun mailing provider for service_maker",
   "main": "index.js",
   "scripts": {
