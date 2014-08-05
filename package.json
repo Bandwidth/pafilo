@@ -21,17 +21,3 @@
     "should": "^4.0.4"
   }
 }
-
-  "dependencies": {
-    "superagent": "^0.18.2"
-  },
-  "devDependencies": {
-    "co": "^3.0.6",
-    "co-hapi": "0.0.9",
-    "co-mocha": "0.0.4",
-    "hapi": "^6.2.1",
-    "mocha": "^1.21.0",
-    "nock": "^0.42.2",
-    "should": "^4.0.4"
-  }
-}
