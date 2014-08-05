@@ -19,5 +19,12 @@
     "mocha": "^1.21.0",
     "nock": "^0.42.2",
     "should": "^4.0.4"
-  }
+  },
+  "keywords": [
+    "service_maker",
+    "service maker",
+    "mailgun",
+    "mail gun",
+    "mail"
+  ]
 }
