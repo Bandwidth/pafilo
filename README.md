@@ -1,3 +1,5 @@
+# ⚠️ DEPRECATED⚠️ 
+
 ## pafilo
 
 [![Build](https://travis-ci.org/bandwidthcom/pafilo.png)](https://travis-ci.org/bandwidthcom/pafilo)
